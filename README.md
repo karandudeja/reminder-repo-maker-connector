@@ -6,7 +6,7 @@ Because sometimes, I am testing things out and my state of mind does not want to
 
 ## Repo made first on GitHub
 - Make a new repo, public/private, WITH initializing a readme file
-- Go the folder on the computer(local folder) inside which, I would like to clone this repo of Github, as a new folder with the same name as on the GitHub repo.
+- Go to the folder on the computer(local folder) inside which, I would like to clone this repo of Github, as a new folder with the same name as on the GitHub repo.
 - 'cd' to that folder in the Terminal
 - Go to the now newly created repo page, on GitHub
 - Use the 'Code' green button with a dropdown
@@ -19,3 +19,6 @@ Because sometimes, I am testing things out and my state of mind does not want to
 - Congratulations 🎉
 
 ## Repo made first on My Computer
+- * Make a new repo, public/private, WITHOUT initializing a readme file.
+- Go to the folder on the computer(local folder) inside which, I would like to create a repository, that will then be sent(synced) to Github
+- Type 'mkdir some-dolfer-name' to create the folder with that name
