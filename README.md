@@ -19,6 +19,7 @@ Because sometimes, I am testing things out and my state of mind does not want to
 - Congratulations 🎉
 
 ## Repo made first on My Computer
-- * Make a new repo, public/private, WITHOUT initializing a readme file.
+- Make a new repo, public/private, WITHOUT initializing a readme file. [scdl]
+- * scdl = step can be done later also
 - Go to the folder on the computer(local folder) inside which, I would like to create a repository, that will then be sent(synced) to Github
 - Type 'mkdir some-dolfer-name' to create the folder with that name
