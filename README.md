@@ -19,8 +19,8 @@ Because sometimes, I am testing things out and my state of mind does not want to
 - Congratulations 🎉
 
 ## Repo made first on My Computer
-- Make a new repo, public/private, WITHOUT initializing a readme file. [scdl]
-  * scdl = step can be done later also
+- Make a new repo, public/private, WITHOUT initializing a readme file.
+  * This step can be done later also
 - The above step will create a new page with some instructions, and I need to use the 2nd Option with this bold-text "…or push an existing repository from the command line"
 - Go to the folder on the computer(local folder) inside which, I would like to create a project, with a repository that will then be sent(synced) to Github
 - Type 'mkdir some-dolfer-name' to create the folder
