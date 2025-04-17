@@ -20,6 +20,25 @@ Because sometimes, I am testing things out and my state of mind does not want to
 
 ## Repo made first on My Computer
 - Make a new repo, public/private, WITHOUT initializing a readme file. [scdl]
-- * scdl = step can be done later also
-- Go to the folder on the computer(local folder) inside which, I would like to create a repository, that will then be sent(synced) to Github
-- Type 'mkdir some-dolfer-name' to create the folder with that name
+  * scdl = step can be done later also
+- The above step will create a new page with some instructions, and I need to use the 2nd Option with this bold-text "…or push an existing repository from the command line"
+- Go to the folder on the computer(local folder) inside which, I would like to create a project, with a repository that will then be sent(synced) to Github
+- Type 'mkdir some-dolfer-name' to create the folder
+- Next 'cd' to that newly created folder
+- Now inside that folder, in the Terminal, do a 'git init'
+- Now do a 'touch textfile.txt'
+- Open the text file, write some text and save it
+- Go back to Terminal
+- do a 'git status', 'git add .', 'git status', 'git commit -m "first commit, with a new text file"'
+- Go back to Github
+- Copy the text that say 'git remote add origin https://github.com/karandudeja/the-new-repo-name.git'
+  * Through this approach, The repo name on GitHub and Local Folder repo can be different
+- In Terminal, paste it
+- Go back to Github
+- Copy the text saying "git branch -M main"
+- In Terminal, paste it
+- Go back to Github
+- Copy the text saying "git push -u origin main"
+- In Terminal, paste it
+- Go back to Github, and refresh the page
+- Congratulations 🎉
