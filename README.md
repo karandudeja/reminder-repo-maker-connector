@@ -1,6 +1,6 @@
 # reminder-repo-maker-connector
 
-Steps to remember, so that making a repository in my system, need not take a heavy load on the memorisation, but becomes it bit easier, with such gentle reminders and personal notes.
+Steps to remember, so that making a repository in my system, need not take a heavy load on the memorisation, but makes it bit easier, with such gentle reminders and personal notes.
 
 Because sometimes, I am testing things out and my state of mind does not want to be blocked with the old questions - 'how to create a fresh repo on github, synced with local folder?'
 
